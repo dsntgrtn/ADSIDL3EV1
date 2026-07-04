@@ -1,7 +1,7 @@
 html{
     color: rgb(54, 54, 54);
     font-family: 'Courier New', Courier, monospace;
-    background: linear-gradient(90deg,blue,yellow);
+    background: linear-gradient(90deg,red,green,blue);
 }
 body{
     max-width: 1000px;
